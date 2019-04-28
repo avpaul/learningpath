@@ -12,7 +12,7 @@ It has 9 main parts(plus 2 other parts), and each part has its own general goal 
 
 _Skills covered:_ Focus & Concentration, Problem Solving & Critical Thinking, Reading to Understand, Active Listening, Motivation & Commitment
 
-**_:bangbang: Best before: 5th May_**
+_:bangbang: Best before: 5th May_
 
 - [ ] Understand the [Feynman Technique](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230) so you really learn over the course of the next journey instead of just using your short term memory.
 
@@ -373,5 +373,5 @@ Senior developers spend time understanding the WHY of a technology. Why does thi
 
 For other skills like: Stakeholder Management, Adaptability, Estimation, Leadership,Team Dynamics, Willingness to Ask Questions, Organizational Functional Awareness, Seek & Requests Feedback and others not included here; I'm working on them daily throughout simulation's project. I've also applied as a mentor in [ALC 4.0](https://www.andela.com/alc) which will help me to improve on those skills.
 
-License: [MIT](./LICENSE) 
+License: [MIT](./LICENSE)
 :copyright: [avpaul](https:www.github.com/avpaul) 2019
