@@ -14,11 +14,11 @@ _Skills covered:_ Focus & Concentration, Problem Solving & Critical Thinking, Re
 
 _:bangbang: Best before: 5th May_
 
-- [ ] Understand the [Feynman Technique](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230) so you really learn over the course of the next journey instead of just using your short term memory.
+- [x] Understand the [Feynman Technique](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230) so you really learn over the course of the next journey instead of just using your short term memory.
 
-- [ ] [How I Rewired My Brain to Become Fluent in Math](http://nautil.us/issue/40/learning/how-i-rewired-my-brain-to-become-fluent-in-math-rp): subtitled the building blocks of understanding are memorization and repetition.
+- [x] [How I Rewired My Brain to Become Fluent in Math](http://nautil.us/issue/40/learning/how-i-rewired-my-brain-to-become-fluent-in-math-rp): subtitled the building blocks of understanding are memorization and repetition.
 
-- [ ] [One Sure-Fire Way to Improve Your Coding](https://changelog.com/posts/one-sure-fire-way-to-improve-your-coding): reading code!
+- [x] [One Sure-Fire Way to Improve Your Coding](https://changelog.com/posts/one-sure-fire-way-to-improve-your-coding): reading code!
 
 - [ ] [Tips for learning programming](http://blog.hiphipjorge.com/tips-for-learning-programming/)
 
@@ -26,7 +26,7 @@ _:bangbang: Best before: 5th May_
 
 - [ ] [How to ask good questions](https://jvns.ca/blog/good-questions/), Julia Evans.
 
-- [ ] [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
+- [x] [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 
 - [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn): Powerful mental tools to help you master tough subjects, from Coursera
 
@@ -34,7 +34,7 @@ _:bangbang: Best before: 5th May_
 
 - [ ] [The traits of a proficient programmer](https://www.oreilly.com/ideas/the-traits-of-a-proficient-programmer)
 
-- [ ] [The tao of programming](http://www.mit.edu/~xela/tao.html): a set of parables about programming
+- [x] [The tao of programming](http://www.mit.edu/~xela/tao.html): a set of parables about programming
 
 - [ ] [Taking Ownership Is The Most Effective Way to Get What You Want](http://www.theeffectiveengineer.com/blog/take-ownership-of-your-goals)
 
@@ -54,7 +54,7 @@ _:bangbang: Best before: 5th May_
 
 - [ ] [The Ten Commandments of Egoless Programming](http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 
-- [ ] [Your non-linear problem of 90% utilization](https://blog.asmartbear.com/utilization.html), Jason Cohen: why constantly running at 90% utilization is actually counter-productive.
+- [x] [Your non-linear problem of 90% utilization](https://blog.asmartbear.com/utilization.html), Jason Cohen: why constantly running at 90% utilization is actually counter-productive.
 
 - [ ] [Evidence-based advice on how to be successful in any jobs](https://80000hours.org/career-guide/how-to-be-successful/): most self-help advices are not research-based. The ones listed in this article are.
 
@@ -67,13 +67,13 @@ _:bangbang: Best before: 5th May_
 
 _Skills covered:_ Data Structures, Algorithms, Discrete Math, 2 & 3 Tier Architecture
 
-- [ ] [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [x] [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 
-- [ ] [How the web works](https://github.com/vasanthk/how-web-works)
+- [x] [How the web works](https://github.com/vasanthk/how-web-works)
 
-- [ ] How Does the internet work: [this](https://www.youtube.com/watch?v=e4S8zfLdLgQ&feature=youtu.be&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) from LearnCode.academy and [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO) from The New Boston
+- [x] How Does the internet work: [this](https://www.youtube.com/watch?v=e4S8zfLdLgQ&feature=youtu.be&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) from LearnCode.academy and [this](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO) from The New Boston
 
-- [ ] [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+- [x] [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 - [ ] 9 CS topics from [Teach Yourself Computer Science](https://teachyourselfcs.com/): an opinionated set of the best CS resources
 
@@ -102,7 +102,11 @@ _Skills covered:_ Object-Oriented Programming, Problem Solving & Critical Thinki
 
 - [ ] [Maintainable CSS](http://maintainablecss.com/)
 
-- [ ] [Style guide](http://codeguide.co/)
+- [ ] [Style guide](http://codeguide.co/), [BEM](http://getbem.com/) and [SMACCSS](http://smacss.com/)
+
+- [ ] CSS style linters and formatters
+
+- [ ] UI testing tools [Ghost](https://ghostinspector.com/) and [Percy](https://percy.io/)
 
 - [ ] CSS Grid,Transforms,Transitions,Animations and SASS [here](https://github.com/micromata/awesome-css-learning)
 
@@ -142,7 +146,11 @@ _Skills covered:_ Object-Oriented Programming, Problem Solving & Critical Thinki
 
 - [ ] [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Describes thoroughly how to use the Fetch API to receive and send data.
 
-- [ ] [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
+- [ ] [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns and GOF design patterns
+
+- [ ] Web storage APIs and and Caching
+
+- [ ] Service workers and web workers 
 
 - [ ] Regex
 
@@ -175,14 +183,15 @@ _Skills covered:_ Holistic / Big Picture Thinking
 
 - [ ] Go over important performance topics [following this tutorial](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
-- [ ] Learn [how to build a Progressive Web App](https://frontendmasters.com/workshops/progressive-web-applications/)
+- [x] Learn [how to build a Progressive Web App](https://frontendmasters.com/workshops/progressive-web-applications/)
 
-- [ ] Learn about the key things that allow us to create such apps: [HTTPS, App Manifest, and Service Workers](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/)
+- [x] Learn about the key things that allow us to create such apps: [HTTPS, App Manifest, and Service Workers](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/)
 
 - [ ] Learn about [when to use Client Side Rendering and when to use Server Side Rendering](https://medium.com/walmartlabs/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
 
 - [ ] Learn the benefits of using [Next.js](https://nextjs.org/) or [Gatsby.js](https://nextjs.org/) instead of implementing your own server side rendering.
 
+- [ ] App profiling and Google [LightHouse](https://developers.google.com/web/tools/lighthouse)
 > Learning outcomes:
 > Improve the performance of sims project
 
@@ -192,20 +201,23 @@ _Skills covered:_ Holistic / Big Picture Thinking
 
 _Skills covered:_ UI/UX, Mobile Development, Patterns(MVC)
 
-- [ ] React → Do these in order: [one](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b), [two](https://egghead.io/courses/the-beginner-s-guide-to-reactjs), [three](https://egghead.io/courses/advanced-react-component-patterns). Then head on over to the official [documentation](https://reactjs.org/tutorial/tutorial.html) and read through everything.
+- [x] React → Do these in order: [one](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b), [two](https://egghead.io/courses/the-beginner-s-guide-to-reactjs), [three](https://egghead.io/courses/advanced-react-component-patterns). Then head on over to the official [documentation](https://reactjs.org/tutorial/tutorial.html) and read through everything.
 
 - [ ] More in depth tutorial on react [here](https://btholt.github.io/complete-intro-to-react/) it is
 
-- [ ] Learn Redux → Watch [this](https://egghead.io/courses/getting-started-with-redux) course. Don’t let your head explode. Then read the [documentation](http://redux.js.org/docs/introduction/) for it as well.
+- [x] Learn Redux → Watch [this](https://egghead.io/courses/getting-started-with-redux) course. Don’t let your head explode. Then read the [documentation](http://redux.js.org/docs/introduction/) for it as well.
 
 - [ ] Learn about [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) and [CQRS](https://martinfowler.com/bliki/CQRS.html) which inspired Redux
 
 - [ ] [ReactiFlux](https://www.reactiflux.com/learning/) learning plan
 
-- [ ] Learn [React Native](http://www.awesome-react-native.com/)
+- [x] Learn [React Native](http://www.awesome-react-native.com/)
 
-> Learning outcomes:
-> Sims project and 2 side projects(1 web & 1 native)
+- [ ] Advanced React: Code splitting, performance, uncontrolled components, etc. [WesBos course](https://advancedreact.com/) and [here](https://reactresources.com/topics/advanced-concepts)
+
+- [ ] SPA deep dive [here](https://blog.pshrmn.com/how-single-page-applications-work/)
+
+- [ ] React's Virtual DOM and Angular's Incremental DOM 
 
 ---
 
@@ -228,13 +240,13 @@ _Skills covered:_ APIs
 
 _Skills covered:_ Test-Driven Development, End-to-End Testing, Debugging, Attention to Detail
 
-- [ ] Learn the [current testing landscape and the tools you can use](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+- [x] Learn the [current testing landscape and the tools you can use](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 
-- [ ] Learn about the different types of tests: [Unit Tests, Integration Tests, End to End Testing](https://www.youtube.com/watch?v=vqAaMVoKz1c)
+- [x] Learn about the different types of tests: [Unit Tests, Integration Tests, End to End Testing](https://www.youtube.com/watch?v=vqAaMVoKz1c)
 
 - [ ] Learn how to [write good tests](https://www.youtube.com/watch?v=Eu35xM76kKY)
 
-- [ ] Learn about [TDD and BDD](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
+- [x] Learn about [TDD and BDD](https://codeutopia.net/blog/2015/03/01/unit-testing-tdd-and-bdd/)
 
 - [ ] Learn how to write Asynchronous Tests
 
@@ -261,7 +273,7 @@ _Skills covered:_ DevOps,2 & 3 Tier Architecture,Client Vision Alignment, Holist
 
 - [ ] Learn about [relational and non relational databases](https://www.pluralsight.com/blog/software-development/relational-non-relational-databases)
 
-- [ ] A plain english introduction to [CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
+- [x] A plain english introduction to [CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 
 - [ ] [NOSQL Patterns](http://horicky.blogspot.nl/2009/11/nosql-patterns.html)
 
@@ -335,9 +347,8 @@ _Skills covered:_
 - [ ] [Web Developer Security Checklist](https://www.powerdown.io/blog/posts/stories/web-developer-security-checklist.html)
 
 - [ ] [Reckon you've seen some stupid security things?](https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/) everything not to do
-
-> Learning outcomes:
-> Improve sims project security
+  
+- [ ] Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) [here](https://www.softwaresecured.com/what-do-sast-dast-iast-and-rasp-mean-to-developers/)
 
 ---
 
